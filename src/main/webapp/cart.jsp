@@ -21,6 +21,8 @@
   <body>
     <h1></h1>
     
+    <jsp:include page="nav.jsp"></jsp:include>
+    <!-- 
      <nav class="navbar navbar-inverse  navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-header">
@@ -46,7 +48,7 @@
     </ul>
   </div>
 </nav>
- 
+  -->
 <div class="container">
 <div class="row vcenter">
 <div class="col-md-12 col-xs-12">
@@ -121,6 +123,11 @@
     </div>
   </div>
   <hr>
+  
+  
+  
+  
+   
   
   
   

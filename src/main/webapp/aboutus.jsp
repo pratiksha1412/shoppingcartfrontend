@@ -4,14 +4,7 @@
      <title>About us</title>  
      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>  
      <style>
-     div {
-    border-radius: 3px;
-    background-color: #f2f2f2;
-    //padding: 76px;
-    width:30%
-    padding-top: 50px;
-  padding-bottom: 50px;
-}
+     
 
     
  
@@ -24,7 +17,7 @@
   <%-- <c:if test="">
 <jsp:include page="nav.jsp"></jsp:include>
 </c:if> --%>
-
+<jsp:include page="nav.jsp"></jsp:include>
   
   
 <div class="container">  
